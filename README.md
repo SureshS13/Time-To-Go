@@ -5,7 +5,7 @@
   # Time To Go
 </p>
 
-A text-based HTML game about OCD and anxiety. 
+A text-based HTML game about OCD and anxiety. You can access the game in your browser [here](https://sureshs13.github.io/Time-To-Go/).
 
 <br>
 <img align="left" width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/682ec598-eacb-4858-b144-dd736844e682" />
